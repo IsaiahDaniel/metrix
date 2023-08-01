@@ -1,0 +1,5 @@
+a.active {
+    background-color: #5570F1;
+    color: white;
+    @apply mx-2 rounded-md;
+}
